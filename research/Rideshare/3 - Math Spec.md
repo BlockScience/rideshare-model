@@ -1,3 +1,9 @@
+#### Types
+
+1. USDType
+2. TimeType
+3. LocationType
+
 #### Entities
 
 1. **Demand Predictor**

@@ -1,14 +1,14 @@
 Designing a dynamic pricing model for a rideshare company using control theory principles involves creating a system that adjusts prices in real-time based on various input variables to achieve desired outcomes, such as maximizing revenue, optimizing driver utilization, or ensuring customer satisfaction. Here's a step-by-step approach to designing the equation/algorithm for a dynamic pricing model:
 
-1. [**Define the system and its objectives:**](obsidian://open?vault=Obisdian%20Vaults&file=Rideshare%2F1%20-%20System%20%26%20Objectives)
+1. [**Define the system and its objectives:**](obsidian://open?vault=research&file=Rideshare%2F1%20-%20System%20%26%20Objectives)
     - Identify the main objectives of the dynamic pricing model, such as maximizing revenue, balancing supply and demand, or improving customer satisfaction.
     - Define the system boundaries and the input and output variables that will be considered in the model.
 
-2. **Identify the input variables:**
+2.[ **Identify the input variables:**](obsidian://open?vault=research&file=Rideshare%2F2%20-%20Variables)
     - Determine the key factors that influence the demand for rides, such as time of day, day of the week, weather conditions, special events, and location.
     - Consider factors that affect the supply of drivers, such as driver availability, traffic conditions, and vehicle types.
 
-3. **Develop a mathematical model:**
+3.[ **Develop a mathematical model:**](obsidian://open?vault=research&file=Rideshare%2F3%20-%20Math%20Spec)
     - Create a mathematical representation of the system using control theory principles, such as state-space models or transfer functions.
     - Define the relationship between the input variables and the output variable (price) using differential equations or difference equations.
     - Incorporate constraints and limitations, such as minimum and maximum prices, driver incentives, and customer price sensitivity.
