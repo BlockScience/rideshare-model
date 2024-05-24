@@ -1,0 +1,1 @@
+Riders in the rideshare ecosystem. Their state is represented by [[Rider State]]
