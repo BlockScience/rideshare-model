@@ -8,3 +8,5 @@ The wiring will be a stack block of:
 1. [[Request Ride Boundary Action]]
 2. [[Ride Pricing Policy]]
 3. [[Ride Confirmation Policy]]
+4. [[Request Ride Mechanisms Wiring]]
+
