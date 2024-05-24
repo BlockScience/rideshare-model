@@ -11,8 +11,12 @@
             "id": "d3aa827dfa2adfc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "research/Notes/20240524 Request Ride Wiring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "research/Notes/20240524 Request Ride Wiring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "research/Notes/20240524 Request Ride Wiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "research/Notes/20240524 Request Ride Wiring.md"
+              }
             }
           }
         ]
@@ -138,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb1cbcc587e91bf7",
+  "active": "d3aa827dfa2adfc5",
   "lastOpenFiles": [
+    "research/MSML Scaffold/Wiring/Request Ride Wiring.md",
+    "research/MSML Scaffold/Wiring",
+    "research/Notes/20240524 Request Ride Wiring.md",
+    "research/MSML Scaffold/States/Rider State.md",
+    "research/MSML Scaffold/Entities/Rider.md",
+    "research/MSML Scaffold/Entities",
+    "research/Rideshare/3 - Math Spec.md",
+    "research/Rideshare/2 - Variables.md",
+    "research/MSML Scaffold/States",
+    "research/MSML Scaffold/Spaces",
+    "research/MSML Scaffold/Types",
+    "research/MSML Scaffold",
     "research/Definitions/Discounted Integral Priority Routing.md"
   ]
 }
