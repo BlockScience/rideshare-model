@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "37192de1dd93a6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc0513f74b1ba16d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65aa03027702ab93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rideshare/2 - Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff80b4ff3813a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26106d771dd3243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a668b451daa3665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "730e7b26a8cd8e87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb7db9d3968f4552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84f10ea64e02a9ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0fee5cb7aa08d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f62ef58310352be7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rideshare/2 - Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43c6ae224017b391",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rideshare/2 - Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dd5dcecce48dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a296494e313da48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rideshare/2 - Variables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65aa03027702ab93",
+  "lastOpenFiles": [
+    "scripts/a.md",
+    "scripts/audio.md",
+    "scripts/Vocoder.md",
+    "scripts/Vinyl-Distortion.md",
+    "scripts/Utility.md",
+    "scripts/Tuner.md",
+    "scripts/Spectrum.md",
+    "scripts/Spectral-Time.md",
+    "scripts/Spectral-Resonator.md",
+    "scripts/Shifter.md",
+    "scripts/Shaper.md",
+    "scripts/Saturator.md",
+    "scripts/Reverb.md",
+    "scripts/Resonators.md",
+    "scripts/Redux.md",
+    "scripts/Phaser-Flanger.md",
+    "scripts/Pedal.md",
+    "scripts/Overdrive.md",
+    "scripts/Multiband-Dynamics.md",
+    "scripts/Looper.md",
+    "scripts/Limiter.md",
+    "scripts/LFO.md",
+    "scripts/Hybrid-Reverb.md",
+    "scripts/Grain-Delay.md",
+    "scripts/Glue-Compressor.md",
+    "scripts/Gate.md",
+    "scripts/t.txt",
+    "scripts/split.py",
+    "scripts/name.sh",
+    "scripts/name.py",
+    "MSML Scaffold/Wiring",
+    "MSML Scaffold/Types",
+    "MSML Scaffold/States",
+    "MSML Scaffold/Spaces",
+    "MSML Scaffold/Policies",
+    "MSML Scaffold/Boundary Actions"
+  ]
+}
