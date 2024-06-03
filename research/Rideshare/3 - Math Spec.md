@@ -6,16 +6,19 @@
 
 #### Entities
 
-1. Demand Predictor
-2. Price Adjuster
-3. Supply Monitor
-4. Feedback Controller
-5. Revenue Optimizer
+
+1. Platform
+	1. Demand Predictor
+	2. Price Adjuster
+	3. Supply Monitor
+	4. Feedback Controller
+	5. Revenue Optimizer
+2. Rider
+3. Driver
 
 #### State
 
 1. **Global**
-
    - Services
    - Sessions
    - Zones
@@ -28,7 +31,6 @@
    - Real-time Data
 
 2. **Demand Predictor**
-
    - Time of Day
    - Day of the Week
    - Weather Conditions
@@ -36,7 +38,6 @@
    - Location Data
 
 3. **Price Adjuster**
-
    - Base Fare
    - Surge Multiplier
    - Maximum Price
@@ -44,22 +45,15 @@
    - Price Elasticity
 
 4. **Supply Monitor**
-
    - Driver Availability
    - Traffic Conditions
    - Vehicle Types
    - Current Locations
 
 5. **Feedback Controller**
-
    - PID Gains
    - Historical Data
    - Real-time Adjustments
-
-6. **Revenue Optimizer**
-   - Current Revenue
-   - Target Revenue
-   - Incentive Structures
 
 #### Spaces
 
@@ -132,6 +126,9 @@
 3. Modify Supply Monitor Metrics
 4. Tune Feedback Controller Gains
 5. Revise Revenue Optimizer Targets
+
+
+
 
 
 TypeMappings 

@@ -32,4 +32,3 @@ Designing a dynamic pricing model for a rideshare company using control theory p
     - Regularly update the model based on new data, changing market conditions, and evolving business objectives.
     - Incorporate user feedback and adapt the model to address any issues or concerns raised by drivers or customers.
 
- 

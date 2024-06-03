@@ -1,0 +1,13 @@
+
+
+From Jamsheeed:
+
+a standard econ approach is to focus on _Pareto_ _efficiency_ by maximizing social welfare when allocating the resources available (e.g. time and cars) in the production of rides. Social welfare is defined here as a weighted sum of rider utilities and the utilities of drivers when they consume goods purchased from the revenue collected by providing rides (the weights are the ‘primitives’ of this approach, and by assumption the platform carries no weight as a ‘facilitator’). When a platform market is then introduced, the market is designed so that prices support the social-welfare-maximizing allocation, or an allocation which “comes close”.
+
+An alternative is to look for prices that instead maximize _allocative_ _efficiency_ given the platform economy, defined as setting prices so that 1) the service is provided to those who value the service “the most”, and 2) the service is provided by those who can provide the service at “least cost”. Prices that clear markets via auctions usually fall into this category, with the auction mechanism designed to support allocative efficiency. This has the appeal of being able to leverage a variety of auction mechanisms such as the Vickrey auction or the Vickrey-Clarke-Groves mechanism.
+
+For either of these alternatives, the notion of “fairness” requires a benchmark. One benchmark is to ask, “What would prices be if there was no market power by the riders, the drivers or the platform?“. This can be found by modeling e.g. a continuum of riders and drivers using a zero-profit platform. Prices derived from the alternatives above can then be compared to this benchmark, and the degree of departure from the benchmark can be **defined** as “the degree of unfairness”. (Depending on the price mechanisms, there may be one or more parameters that can be ‘tuned’ to reduce this degree of unfairness.)
+
+It should be mentioned that _experimentally_ fairness has been defined differently--results appear to indicate that people _prefer_ fair outcomes because they have “_social preferences”_, i.e. preferences over social outcomes in addition to their own self-interest. Much of this research has been conducted by Ernst Fehr and his colleagues. 
+
+A nice example showing that people’s perception of fairness matters is the seminal article “[A theory of fairness, competition, and cooperation](https://web.stanford.edu/~niederle/Fehr.Schmidt.1999.QJE.pdf)” (QJE 1999), while a more recent survey article is “Social preferences: Fundamental characteristics and economic consequences” (2023).]

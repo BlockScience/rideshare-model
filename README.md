@@ -6,11 +6,13 @@ This repo acts as an example of how to work through the steps of ideating & conc
 
 The objective of this project is to optimize the process of matching drivers with riders in a ride-sharing service by using a weighted directed graph model to represent the service area. This model substitutes physical geography with travel times between regions.
 
-Key components include:
-
 Additionally, the project introduces the Discounted Integral Priority Routing (DIPR) algorithm to address congestion. DIPR prioritizes routing based on historical queue lengths, aiming to reduce congestion and optimize routing and pricing dynamically.
 
-The project uses **MSML (Model-Specification Markup Language)** and **cadCAD (Complex Adaptive Dynamics Computer-Aided Design)** to generate models and run simulations.
+### Assumptions
 
+TODO 
+
+---
+The project utilizes **MSML (Model-Specification Markup Language)** and **cadCAD (Complex Adaptive Dynamics Computer-Aided Design)** to generate models and run simulations.
 - [MSML Repository](https://github.com/BlockScience/msml)
 - [cadCAD Repository](https://github.com/cadCAD-org/cadCAD)

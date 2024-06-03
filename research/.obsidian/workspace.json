@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rideshare/2 - Variables.md",
+                "file": "Notes/20240524 Request Ride Wiring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255e5b61ba0362a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/RID & NEO4J.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8ab9265fcf2b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rideshare/3 - Math Spec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rideshare/2 - Variables.md",
+                "file": "Notes/RID & NEO4J.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rideshare/2 - Variables.md",
+                "file": "Notes/RID & NEO4J.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rideshare/2 - Variables.md"
+                "file": "Notes/RID & NEO4J.md"
               }
             }
           }
@@ -146,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65aa03027702ab93",
+  "active": "255e5b61ba0362a0",
   "lastOpenFiles": [
+    "Notes/Untitled.md",
+    "Notes/RID & NEO4J.md",
+    "Rideshare/0 - Overview.md",
+    "Rideshare/3 - Math Spec.md",
+    "Rideshare/2 - Variables.md",
+    "Rideshare/1 - System & Objectives.md",
+    "Notes/Shortest Path.md",
+    "Notes/RideShare Notes.md",
+    "Definitions/Control Design.md",
+    "Curriculum/UPenn.md",
+    "Curriculum/Discrete Event and Linear Systems Control.md",
+    "Curriculum/Advanced Control Systems and Identification.md",
+    "MSML.md",
+    "Notes/Definition of a 'fair' in dynamic pricing models.md",
+    "Notes/20240530 Backend System Breakdown.md",
+    "Notes/20240524 Request Ride Wiring.md",
+    "Rideshare/3.1 - Shortest Path.md",
+    "experiments/shortest_path.ipynb",
+    "experiments",
+    "scripts/shortest_path.ipynb",
+    "Notes/Untitled",
+    "MSML Scaffold/Wiring/Request Ride Wiring.md",
+    "MSML Scaffold/Boundary Actions/Request Ride Boundary Action.md",
+    "MSML Scaffold/Wiring/Request Ride Mechanisms Wiring.md",
+    "MSML Scaffold/Types/Delta Time Type.md",
+    "Resources.md",
+    "MSML Scaffold/Spaces/Request Ride Space.md",
+    "MSML Scaffold/Spaces/Request Ride Response Space.md",
     "scripts/a.md",
     "scripts/audio.md",
-    "scripts/Vocoder.md",
-    "scripts/Vinyl-Distortion.md",
-    "scripts/Utility.md",
-    "scripts/Tuner.md",
-    "scripts/Spectrum.md",
-    "scripts/Spectral-Time.md",
-    "scripts/Spectral-Resonator.md",
-    "scripts/Shifter.md",
-    "scripts/Shaper.md",
-    "scripts/Saturator.md",
-    "scripts/Reverb.md",
-    "scripts/Resonators.md",
-    "scripts/Redux.md",
-    "scripts/Phaser-Flanger.md",
-    "scripts/Pedal.md",
-    "scripts/Overdrive.md",
-    "scripts/Multiband-Dynamics.md",
-    "scripts/Looper.md",
-    "scripts/Limiter.md",
-    "scripts/LFO.md",
-    "scripts/Hybrid-Reverb.md",
-    "scripts/Grain-Delay.md",
-    "scripts/Glue-Compressor.md",
-    "scripts/Gate.md",
     "scripts/t.txt",
     "scripts/split.py",
     "scripts/name.sh",
     "scripts/name.py",
     "MSML Scaffold/Wiring",
-    "MSML Scaffold/Types",
-    "MSML Scaffold/States",
-    "MSML Scaffold/Spaces",
-    "MSML Scaffold/Policies",
-    "MSML Scaffold/Boundary Actions"
+    "MSML Scaffold/Types"
   ]
 }
