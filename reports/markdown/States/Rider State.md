@@ -3,7 +3,6 @@
 ### Variable Table
 | Name | Description | Type | Symbol | Domain |
 | --- | --- | --- | --- | --- |
-|[[Global State-Riders\|Riders]]|Current riders in the simulation|[[Entity Type]]|||
 
 
 ## Updated By

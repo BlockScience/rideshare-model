@@ -6,12 +6,15 @@ cssclasses:
 ├──**Entities**
 │   ├──[[Dummy]]
 │   ├──[[Global]]
+│   ├──[[Rider]]
 ├──**State**
 │   ├──[[Dummy State]]
 │   │   ├──[[Dummy State-Variable A\|Variable A]]
 │   │   ├──[[Dummy State-Variable B\|Variable B]]
 │   │   ├──[[Dummy State-Variable C\|Variable C]]
 │   ├──[[Global State]]
+│   │   ├──[[Global State-Riders\|Riders]]
+│   ├──[[Rider State]]
 ├──**Stateful Metrics**
 │   ├──Dummy Stateful Metrics
 │   │   ├──[[dummy_metric]]
@@ -19,6 +22,7 @@ cssclasses:
 │   ├──[[Dummy Type 1]]
 │   ├──[[Dummy Type 2]]
 │   ├──[[Dummy Compound Type]]
+│   ├──[[Entity Type]]
 ├──**Spaces**
 │   ├──[[Terminating Space]]
 │   ├──[[Empty Space]]
@@ -31,6 +35,7 @@ cssclasses:
 ├──**Boundary Actions**
 │   ├──[[Dummy Boundary Action]]
 │   ├──[[Dummy Boundary Action 2]]
+│   ├──[[Request Ride Boundary Action]]
 ├──**Control Actions**
 │   ├──[[Dummy Control Action]]
 ├──**Policies**
