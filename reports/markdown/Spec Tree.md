@@ -23,11 +23,16 @@ cssclasses:
 │   ├──[[Dummy Type 2]]
 │   ├──[[Dummy Compound Type]]
 │   ├──[[Entity Type]]
+│   ├──[[User ID Type]]
+│   ├──[[Geozone Type]]
+│   ├──[[USD Type]]
+│   ├──[[Delta Time Type]]
 ├──**Spaces**
 │   ├──[[Terminating Space]]
 │   ├──[[Empty Space]]
 │   ├──[[Dummy Space 1]]
 │   ├──[[Dummy Space 2]]
+│   ├──[[Request Ride Space]]
 ├──**Parameters**
 │   ├──Dummy Parameter Set
 │   │   ├──[[dummy_parameter]]

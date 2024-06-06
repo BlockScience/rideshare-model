@@ -27,10 +27,10 @@ The action of a rider requesting a ride.
 ## Domain Spaces
 
 ## Codomain Spaces
-1. [[Dummy Space 1]]
+1. [[Request Ride Space]]
 
 ## All Spaces Used
-1. [[Dummy Space 1]]
+1. [[Request Ride Space]]
 
 ## Parameters Used
 
