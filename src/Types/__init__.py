@@ -1,5 +1,13 @@
 from .Dummy import DummyCompoundType, DummyType1, DummyType2
-from .Primitives import EntityType, UserIDType, GeozoneType, USDType, DeltaTimeType
+from .Primitives import (
+    EntityType,
+    UserIDType,
+    GeozoneType,
+    USDType,
+    DeltaTimeType,
+    EventQueueType,
+    EventType,
+)
 
 types = [
     DummyType1,
@@ -10,4 +18,6 @@ types = [
     GeozoneType,
     USDType,
     DeltaTimeType,
+    EventQueueType,
+    EventType,
 ]

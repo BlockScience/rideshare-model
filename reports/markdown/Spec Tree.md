@@ -14,7 +14,9 @@ cssclasses:
 │   │   ├──[[Dummy State-Variable C\|Variable C]]
 │   ├──[[Global State]]
 │   │   ├──[[Global State-Riders\|Riders]]
+│   │   ├──[[Global State-Event Queue\|Event Queue]]
 │   ├──[[Rider State]]
+│   │   ├──[[Rider State-User ID\|User ID]]
 ├──**Stateful Metrics**
 │   ├──Dummy Stateful Metrics
 │   │   ├──[[dummy_metric]]
@@ -27,6 +29,8 @@ cssclasses:
 │   ├──[[Geozone Type]]
 │   ├──[[USD Type]]
 │   ├──[[Delta Time Type]]
+│   ├──[[Event Queue Type]]
+│   ├──[[Event Type]]
 ├──**Spaces**
 │   ├──[[Terminating Space]]
 │   ├──[[Empty Space]]

@@ -27,3 +27,15 @@ DeltaTimeType = {
     "type": "DeltaTimeType",
     "notes": "An amount of time",
 }
+
+EventQueueType = {
+    "name": "Event Queue Type",
+    "type": "EventQueueType",
+    "notes": """The event queue is a heap queue of items of 'Event Type'""",
+}
+
+EventType = {
+    "name": "Event Type",
+    "type": "EventType",
+    "notes": "An item with the attributes of the time that the event takes place, the name of the action which takes place, and any spaces thate are passed.",
+}
