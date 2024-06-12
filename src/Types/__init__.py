@@ -8,6 +8,7 @@ from .Primitives import (
     EventQueueType,
     EventType,
 )
+from .Rider import RiderStateType
 
 types = [
     DummyType1,
@@ -20,4 +21,5 @@ types = [
     DeltaTimeType,
     EventQueueType,
     EventType,
+    RiderStateType,
 ]

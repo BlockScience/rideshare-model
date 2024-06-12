@@ -8,6 +8,13 @@ rider_state = {
             "description": "The ID of the User",
             "symbol": None,
             "domain": None,
-        }
+        },
+        {
+            "type": "Rider State Type",
+            "name": "State",
+            "description": "The current state of the rider",
+            "symbol": None,
+            "domain": None,
+        },
     ],
 }
