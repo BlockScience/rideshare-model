@@ -23,6 +23,8 @@ def event_queue_request_ride(state, params, spaces):
             "target_location": "TBD",
             "maximum_price": 100,
             "maximum_wait_time": 5,
+            "ride_time": spaces[0]["ride_time"],
+            "current_time": t,
         },
     )
     return [space]

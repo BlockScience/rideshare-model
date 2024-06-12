@@ -28,6 +28,13 @@ DeltaTimeType = {
     "notes": "An amount of time",
 }
 
+TimeType = {
+    "name": "Time Type",
+    "type": "TimeType",
+    "notes": "A current time",
+}
+
+
 EventQueueType = {
     "name": "Event Queue Type",
     "type": "EventQueueType",

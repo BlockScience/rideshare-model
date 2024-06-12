@@ -7,8 +7,10 @@ from .Primitives import (
     DeltaTimeType,
     EventQueueType,
     EventType,
+    TimeType,
 )
 from .Rider import RiderStateType
+from .Driver import DriverIDType
 
 types = [
     DummyType1,
@@ -22,4 +24,6 @@ types = [
     EventQueueType,
     EventType,
     RiderStateType,
+    TimeType,
+    DriverIDType,
 ]
