@@ -16,15 +16,13 @@ def event_queue_request_ride(state, params, spaces):
         return None
 
     # Random assumptions for now
-    space = (
-        {
-            "user_id": choice(idle_riders)["User ID"],
-            "source_location": "TBD",
-            "target_location": "TBD",
-            "maximum_price": 100,
-            "maximum_wait_time": 5,
-            "ride_time": spaces[0]["ride_time"],
-            "current_time": t,
-        },
-    )
+    space = {
+        "user_id": choice(idle_riders)["User ID"],
+        "source_location": "TBD",
+        "target_location": "TBD",
+        "maximum_price": 100,
+        "maximum_wait_time": 5,
+        "ride_time": spaces[0]["ride_time"],
+        "current_time": t,
+    }
     return [space]
