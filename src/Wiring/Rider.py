@@ -5,7 +5,7 @@ rider_wirings.append(
         "name": "Request Ride Wiring",
         "components": [
             "Request Ride Boundary Action",
-            # "Ride Pricing Policy",
+            "Ride Pricing Policy",
             # "Ride Confirmation Policy",
             # "Request Ride Mechanisms Wiring",
         ],
