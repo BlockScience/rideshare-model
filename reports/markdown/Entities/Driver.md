@@ -6,11 +6,10 @@
 ### Variable Table
 | Name | Description | Type | Symbol | Domain |
 | --- | --- | --- | --- | --- |
-|[[Rider State-User ID\|User ID]]|The ID of the User|[[User ID Type]]|||
-|[[Rider State-State\|State]]|The current state of the rider|[[Rider State Type]]|||
+|[[Driver State-Driver ID\|Driver ID]]|The ID of the driver|[[Driver ID Type]]|||
+|[[Driver State-State\|State]]|The current state of the driver|[[Driver State Type]]|||
 
 
 ## Boundary Actions
-### [[Request Ride Boundary Action]]
 ## Mechanisms Impacting the Entity
 ## Actions Impacting the Entity

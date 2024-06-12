@@ -10,7 +10,7 @@ from .Primitives import (
     TimeType,
 )
 from .Rider import RiderStateType
-from .Driver import DriverIDType
+from .Driver import DriverIDType, DriverStateType
 
 types = [
     DummyType1,
@@ -26,4 +26,5 @@ types = [
     RiderStateType,
     TimeType,
     DriverIDType,
+    DriverStateType,
 ]

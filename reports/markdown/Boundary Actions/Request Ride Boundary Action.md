@@ -5,6 +5,7 @@ The boundary action which represents users requesting a ride potentially. Note: 
 1. [[Rider]]
 
 ## Followed By
+1. [[Ride Pricing Policy]]
 
 ## Constraints
 
