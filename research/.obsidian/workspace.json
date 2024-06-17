@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0513f74b1ba16d",
+        "id": "52d398c8b6385964",
         "type": "tabs",
         "children": [
           {
-            "id": "65aa03027702ab93",
+            "id": "3e6f43d308e054b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/20240524 Request Ride Wiring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255e5b61ba0362a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/RID & NEO4J.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e8ab9265fcf2b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rideshare/3 - Math Spec.md",
-                "mode": "source",
+                "file": "Rideshare/1 - System & Objectives.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "84f10ea64e02a9ba",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RID & NEO4J.md",
+                "file": "Rideshare/1 - System & Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RID & NEO4J.md",
+                "file": "Rideshare/1 - System & Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RID & NEO4J.md"
+                "file": "Rideshare/1 - System & Objectives.md"
               }
             }
           }
@@ -168,46 +144,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "255e5b61ba0362a0",
+  "active": "3e6f43d308e054b7",
   "lastOpenFiles": [
     "Notes/Untitled.md",
     "Notes/RID & NEO4J.md",
-    "Rideshare/0 - Overview.md",
-    "Rideshare/3 - Math Spec.md",
-    "Rideshare/2 - Variables.md",
-    "Rideshare/1 - System & Objectives.md",
-    "Notes/Shortest Path.md",
-    "Notes/RideShare Notes.md",
-    "Definitions/Control Design.md",
-    "Curriculum/UPenn.md",
-    "Curriculum/Discrete Event and Linear Systems Control.md",
-    "Curriculum/Advanced Control Systems and Identification.md",
-    "MSML.md",
     "Notes/Definition of a 'fair' in dynamic pricing models.md",
     "Notes/20240530 Backend System Breakdown.md",
+    "MSML.md",
+    "Definitions/Event Simulation.md",
+    "scripts/dipr.ipynb",
+    "scripts",
+    "Notes/20240603 Fungibility.md",
+    "Notes/20240602 Event Queue Proposal.md",
+    "MSML Scaffold/Wiring/Complete Ride Wiring.md",
+    "MSML Scaffold/Types/Timestamp Type.md",
+    "MSML Scaffold/Types/Event Queue Element Type.md",
+    "MSML Scaffold/Types/Event Queue Action Type.md",
+    "MSML Scaffold/States/Global State-Time.md",
+    "MSML Scaffold/States/Global State-Event Queue.md",
+    "Notes/20240614.md",
+    "Rideshare/1 - System & Objectives.md",
     "Notes/20240524 Request Ride Wiring.md",
+    "Notes/RideShare Notes.md",
+    "Rideshare/0 - Overview.md",
+    "Rideshare/2 - Variables.md",
+    "Rideshare/3 - Math Spec.md",
     "Rideshare/3.1 - Shortest Path.md",
-    "experiments/shortest_path.ipynb",
-    "experiments",
-    "scripts/shortest_path.ipynb",
-    "Notes/Untitled",
+    "Curriculum/Discrete Event and Linear Systems Control.md",
+    "Curriculum/Advanced Control Systems and Identification.md",
     "MSML Scaffold/Wiring/Request Ride Wiring.md",
-    "MSML Scaffold/Boundary Actions/Request Ride Boundary Action.md",
-    "MSML Scaffold/Wiring/Request Ride Mechanisms Wiring.md",
-    "MSML Scaffold/Types/Delta Time Type.md",
-    "Resources.md",
-    "MSML Scaffold/Spaces/Request Ride Space.md",
-    "MSML Scaffold/Spaces/Request Ride Response Space.md",
-    "scripts/a.md",
-    "scripts/audio.md",
-    "scripts/t.txt",
-    "scripts/split.py",
-    "scripts/name.sh",
-    "scripts/name.py",
-    "MSML Scaffold/Wiring",
-    "MSML Scaffold/Types"
+    "DataViews/data.json",
+    "DataViews/data.yaml",
+    "DataViews/full_simul.yaml",
+    "DataViews",
+    "Data/full_simul.yaml",
+    "Data",
+    "experiments/shortest_path.ipynb",
+    "experiments"
   ]
 }
