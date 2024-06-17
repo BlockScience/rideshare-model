@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Model Improvements.md",
+                "file": "Notes/RID & NEO4J.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Model Improvements.md",
+                "file": "Notes/RID & NEO4J.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Model Improvements.md",
+                "file": "Notes/RID & NEO4J.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Model Improvements.md"
+                "file": "Notes/RID & NEO4J.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "3e6f43d308e054b7",
   "lastOpenFiles": [
-    "Rideshare/1 - System & Objectives.md",
+    "Notes/Methods to Distribute Drivers & Riders.md",
+    "Notes/Definition of a 'fair' in dynamic pricing models.md",
     "Notes/Model Improvements.md",
+    "Rideshare/1 - System & Objectives.md",
     "Notes/Untitled.md",
     "Notes/RID & NEO4J.md",
-    "Notes/Definition of a 'fair' in dynamic pricing models.md",
     "Notes/20240530 Backend System Breakdown.md",
     "MSML.md",
     "Definitions/Event Simulation.md",
@@ -177,7 +178,6 @@
     "Rideshare/3.1 - Shortest Path.md",
     "Curriculum/Discrete Event and Linear Systems Control.md",
     "Curriculum/Advanced Control Systems and Identification.md",
-    "MSML Scaffold/Wiring/Request Ride Wiring.md",
     "DataViews/data.json",
     "DataViews/data.yaml",
     "DataViews/full_simul.yaml",
