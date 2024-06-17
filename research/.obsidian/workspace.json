@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rideshare/1 - System & Objectives.md",
-                "mode": "preview",
+                "file": "Notes/Model Improvements.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "84f10ea64e02a9ba",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rideshare/1 - System & Objectives.md",
+                "file": "Notes/Model Improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rideshare/1 - System & Objectives.md",
+                "file": "Notes/Model Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rideshare/1 - System & Objectives.md"
+                "file": "Notes/Model Improvements.md"
               }
             }
           }
@@ -151,6 +150,8 @@
   },
   "active": "3e6f43d308e054b7",
   "lastOpenFiles": [
+    "Rideshare/1 - System & Objectives.md",
+    "Notes/Model Improvements.md",
     "Notes/Untitled.md",
     "Notes/RID & NEO4J.md",
     "Notes/Definition of a 'fair' in dynamic pricing models.md",
@@ -168,7 +169,6 @@
     "MSML Scaffold/States/Global State-Time.md",
     "MSML Scaffold/States/Global State-Event Queue.md",
     "Notes/20240614.md",
-    "Rideshare/1 - System & Objectives.md",
     "Notes/20240524 Request Ride Wiring.md",
     "Notes/RideShare Notes.md",
     "Rideshare/0 - Overview.md",
