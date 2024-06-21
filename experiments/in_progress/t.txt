@@ -1,0 +1,12 @@
+append_to_csv(
+        file_path=file_path,
+        completed_rides=len(simulation.completed_rides),
+        total_distance=sum([ride.metadata['distance_km'] for ride in simulation.completed_rides]),
+        total_usd=sum([ride.metadata['cost_usd'] for ride in simulation.completed_rides]),
+        current_time=current_time,
+        num_drivers=initial_stats[1],
+        num_ride_requests=initial_stats[2],
+        num_riders=initial_stats[0],
+    )
+
+Time: 2041, Completed Rides: 1920, Total Distance: 72927, Total Cost: 186622.5

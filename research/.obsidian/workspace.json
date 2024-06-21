@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/20240619 Discrete DIPR Model Overview.md",
+                "file": "Notes/WIP - Acceptance Threshold.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/20240619 Discrete DIPR Model Overview.md",
+                "file": "Notes/WIP - Acceptance Threshold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/20240619 Discrete DIPR Model Overview.md",
+                "file": "Notes/WIP - Acceptance Threshold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/20240619 Discrete DIPR Model Overview.md"
+                "file": "Notes/WIP - Acceptance Threshold.md"
               }
             }
           }
@@ -150,19 +150,19 @@
   },
   "active": "3e6f43d308e054b7",
   "lastOpenFiles": [
-    "Notes/20240618 Model Improvements.md",
+    "DataViews/ResultsTracker2.csv",
     "Notes/20240619 Discrete DIPR Model Overview.md",
+    "Notes/WIP - Acceptance Threshold.md",
+    "Notes/20240618 Model Improvements.md",
     "Rideshare/3.1 - Shortest Path.md",
     "Notes/Shortest Path.md",
     "Definitions/Discounted Integral Priority Routing.md",
     "Notes/20240618 Assumptions.md",
-    "DataViews/ResultsTracker2.csv",
     "DataViews/ResultsTracker1.csv",
     "DataViews/ResultsTracker.csv",
     "DataViews/ResultsTracker.txt",
     "DataViews/ResultsTracker.md",
     "Notes/Untitled.md",
-    "Notes/Untitled 1.md",
     "Notes/RID & NEO4J.md",
     "Notes/Methods to Distribute Drivers & Riders.md",
     "Notes/Definition of a 'fair' in dynamic pricing models.md",
@@ -181,7 +181,6 @@
     "MSML Scaffold/States/Global State-Time.md",
     "MSML Scaffold/States/Global State-Event Queue.md",
     "Notes/20240614.md",
-    "Notes/20240524 Request Ride Wiring.md",
     "DataViews/data.json",
     "DataViews/data.yaml",
     "DataViews/full_simul.yaml",
